@@ -1,0 +1,35 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 56c918bd0a21395140f67d734c2f2176d8250f91
+  "dgSpecHash": "dZhS44O/6GLLl3zgQx1tDmOecCzeeEFCXvjlLZyBdZvyFS5MBLHSgUvaQmOn5r3dcLQj01QClFuFsIeu3YI7yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taavi\\Source\\Repos\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus.iOS\\Pusle-mobiilirakendus.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taavi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\taavi\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\taavi\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+<<<<<<< HEAD
+=======
+=======
+  "dgSpecHash": "+aciHaRWwdxz6ZeTzz4BnAmktfFKUMq2s52i1m090vsBmkccdrASm3+T0Dj3B2qLvjVFNHtPTbjDwjQb7r3gdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaanu\\source\\repos\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus.iOS\\Pusle-mobiilirakendus.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaanu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\jaanu\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+>>>>>>> b60a067bc0abf570dc05c7531ae55416135ef869
+>>>>>>> 56c918bd0a21395140f67d734c2f2176d8250f91
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\taavi\\Source\\Repos\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus.iOS\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}
