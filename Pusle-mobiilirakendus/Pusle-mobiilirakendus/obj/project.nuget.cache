@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "h5xHbi5JeEaCgtD/2Y3QYaiTIRcydRqyqug5iQtCpXZ+yTjyjyZe6338a4mio5gRUH30oROetb3j9YFAwddvuQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\taavi\\Source\\Repos\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus.csproj",
@@ -9,6 +10,17 @@
     "C:\\Users\\taavi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\taavi\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Users\\taavi\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+=======
+  "dgSpecHash": "kAUS2MbWyyoBEKigR8mZwsIq5xTH10U6COUTcQstWzeyHZZyM+5OPlxVcwPAdFkLC785cI7SbGnBKqj727iOaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaanu\\source\\repos\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaanu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jaanu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jaanu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\jaanu\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+>>>>>>> b60a067bc0abf570dc05c7531ae55416135ef869
   ],
   "logs": []
 }

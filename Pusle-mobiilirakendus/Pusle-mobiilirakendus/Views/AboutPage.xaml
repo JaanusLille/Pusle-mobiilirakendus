@@ -44,7 +44,11 @@
                 </Label>
                 <Button Margin="0,10,0,0" Text="Soovin teada rohkem! "
                         Command="{Binding OpenWebCommand}"
+<<<<<<< HEAD
                         BackgroundColor="Purple"
+=======
+                        BackgroundColor="{StaticResource Primary}"
+>>>>>>> b60a067bc0abf570dc05c7531ae55416135ef869
                         TextColor="White" />
             </StackLayout>
         </ScrollView>

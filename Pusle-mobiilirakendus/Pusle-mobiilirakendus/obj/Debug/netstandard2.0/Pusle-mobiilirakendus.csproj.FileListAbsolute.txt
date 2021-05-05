@@ -17,6 +17,7 @@ C:\Users\jaanu\source\repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mo
 C:\Users\jaanu\source\repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus\obj\Debug\netstandard2.0\Pusle-mobiilirakendus.dll
 C:\Users\jaanu\source\repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus\obj\Debug\netstandard2.0\ref\Pusle-mobiilirakendus.dll
 C:\Users\jaanu\source\repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus\obj\Debug\netstandard2.0\Pusle-mobiilirakendus.pdb
+<<<<<<< HEAD
 C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus\bin\Debug\netstandard2.0\Pusle-mobiilirakendus.deps.json
 C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus\bin\Debug\netstandard2.0\Pusle-mobiilirakendus.dll
 C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus\bin\Debug\netstandard2.0\ref\Pusle-mobiilirakendus.dll
@@ -36,3 +37,5 @@ C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mo
 C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus\obj\Debug\netstandard2.0\Pusle-mobiilirakendus.dll
 C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus\obj\Debug\netstandard2.0\ref\Pusle-mobiilirakendus.dll
 C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus\obj\Debug\netstandard2.0\Pusle-mobiilirakendus.pdb
+=======
+>>>>>>> b60a067bc0abf570dc05c7531ae55416135ef869

@@ -577,6 +577,7 @@ C:\Users\jaanu\source\repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mo
 C:\Users\jaanu\source\repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\jaanu\source\repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\jaanu\source\repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+<<<<<<< HEAD
 C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus.Android\bin\Debug\Pusle-mobiilirakendus.Android.dll
 C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus.Android\bin\Debug\Pusle-mobiilirakendus.Android.pdb
 C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus.Android\bin\Debug\com.companyname.pusle_mobiilirakendus.apk
@@ -1156,3 +1157,5 @@ C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mo
 C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\taavi\Source\Repos\Pusle-mobiilirakendus\Pusle-mobiilirakendus\Pusle-mobiilirakendus.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+=======
+>>>>>>> b60a067bc0abf570dc05c7531ae55416135ef869
