@@ -534,13 +534,29 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\taavi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\taavi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+=======
+    "C:\\Users\\jaanu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+>>>>>>> b60a067bc0abf570dc05c7531ae55416135ef869
+>>>>>>> 56c918bd0a21395140f67d734c2f2176d8250f91
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 56c918bd0a21395140f67d734c2f2176d8250f91
       "projectUniqueName": "C:\\Users\\taavi\\Source\\Repos\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus.csproj",
       "projectName": "Pusle-mobiilirakendus",
       "projectPath": "C:\\Users\\taavi\\Source\\Repos\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus.csproj",
@@ -553,6 +569,24 @@
       ],
       "configFilePaths": [
         "C:\\Users\\taavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
+=======
+=======
+      "projectUniqueName": "C:\\Users\\jaanu\\source\\repos\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus.csproj",
+      "projectName": "Pusle-mobiilirakendus",
+      "projectPath": "C:\\Users\\jaanu\\source\\repos\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus.csproj",
+      "packagesPath": "C:\\Users\\jaanu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jaanu\\source\\repos\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\Pusle-mobiilirakendus\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jaanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> b60a067bc0abf570dc05c7531ae55416135ef869
+>>>>>>> 56c918bd0a21395140f67d734c2f2176d8250f91
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
