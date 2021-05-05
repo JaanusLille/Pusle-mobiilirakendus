@@ -42,7 +42,11 @@
                         </FormattedString>
                     </Label.FormattedText>
                 </Label>
+<<<<<<< HEAD
                 <Button Margin="0,10,0,0" Text="Soovin teada rohkem!!! "
+=======
+                <Button Margin="0,10,0,0" Text="Soovin teada rohkem slash tõsine edit "
+>>>>>>> origin/taavi
                         Command="{Binding OpenWebCommand}"
                         BackgroundColor="Purple"
                         TextColor="White" />
